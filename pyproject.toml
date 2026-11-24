@@ -31,7 +31,7 @@ classifiers = [
 ]
 
 # TEST ONLY: fixed version for a reproducible test wheel, not for upstream
-version = "3.2.4.post2+smartload"
+version = "3.2.4.post3+smartload"
 
 dependencies = ["tmodbus[async-serial]>=0.5"]
 
